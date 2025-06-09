@@ -6,9 +6,9 @@ import cv2
 import imutils
 import numpy as np
 
-sender_email = '<your email address>'
-sender_password = '<your email password>'
-recipient_email = '<recipient email address>'
+sender_email = 'rengoku93633@gmail.com'
+sender_password = 'vqyj wivq ctwr ambj'  #vqyj wivq ctwr ambj
+recipient_email = 'itachi93633@gmail.com'
 subject = 'Emergency!' 
 body = 'Motion has been detected in your home. Be safe!'
 
